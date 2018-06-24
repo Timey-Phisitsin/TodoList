@@ -1,0 +1,24 @@
+/* Border-box all the things!
+   ------------------------------ */
+
+   *,
+   :before,
+   :after {
+       -webkit-box-sizing: border-box;
+          -moz-box-sizing: border-box;
+               box-sizing: border-box;
+               
+   }
+   
+   
+   
+   
+   .border {
+       margin: 0 auto;
+       padding: 20px;
+       font: 1.2em sans-serif;
+       text-align: center;
+       color: whitesmoke;
+       border: 1px solid transparent;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.50);
+   } 
