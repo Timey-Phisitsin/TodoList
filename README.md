@@ -20,5 +20,5 @@ Flipmove: npm I -S react-flip-move
 
 Moment: npm install moment --save
 
-Database: Use localstorage
+Database: Using localstorage
 #### So with my renewed apology for the trouble I’m causing you.
