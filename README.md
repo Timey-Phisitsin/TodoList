@@ -13,10 +13,10 @@ React : npm install -g create-react-app
         create-react-app my-app (or your write this.)
         
 Bootstrap : npm install react-bootstrap --save
-            npm install bootstrap@3 --save
+npm install bootstrap@3 --save
             
 Fontawesome: npm install react-fontawesome --save
-             npm install font-awesome --save
+npm install font-awesome --save
              
 Flipmove: npm I -S react-flip-move
 
