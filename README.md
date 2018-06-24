@@ -12,14 +12,13 @@ demo todolist
 React : npm install -g create-react-app
         create-react-app my-app (or your write this.)
         
-Bootstrap : npm install react-bootstrap --save
-npm install bootstrap@3 --save
+Bootstrap : npm install react-bootstrap --save && npm install bootstrap@3 --save
             
-Fontawesome: npm install react-fontawesome --save
-npm install font-awesome --save
+Fontawesome: npm install react-fontawesome --save && npm install font-awesome --save
              
 Flipmove: npm I -S react-flip-move
 
 Moment: npm install moment --save
 
+Database: Use localstorage
 #### So with my renewed apology for the trouble I’m causing you.
