@@ -7,7 +7,7 @@ demo todolist
 4.Check complete and incomplete
 5.Count list (complete, incomplete, all)
 
-###Install frameworks for work with 100%
+###Install frameworks for working with 100%
 
 React : npm install -g create-react-app
         create-react-app my-app (or your write this.)
