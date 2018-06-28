@@ -1,0 +1,92 @@
+/* reset/css */
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Global tag */
+  .btn {
+      padding: 5px 15px;
+      font-size: 18px;
+      border: none;
+      border-radius: 4px;
+    }
+  
+  
+    input{
+      border: none;
+      padding: 10px;
+      width: 50%;
+      border-radius: 20px;  
+    }
+  
+    input:hover{
+      background-color: rgba(255,155,79,.8);
+      transition: 0.5s;
+    }
+  
+    textarea{
+      border: none;
+      padding: 10px;
+      border-radius: 10px;
+      width: 50%;
+    }
+  
+    textarea:hover{
+      background-color: rgba(255,155,79,.8);
+      transition: 0.5s;
+    }
+  
+    button:hover{
+      background-color:rgba(0,0,0,.2);
+    }
+    /* Class */
+    
+    .modal-cover {
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(0,0,0,.6);
+      z-index: 1040;
+      display: none;
+    }
+    
+    .modal-cover.modal-cover-active {
+      display: block;
+    }
+    
+    .modal-container {
+      z-index: 1050;
+      position: fixed;
+      border-radius: 6px;
+      background: rgba(255,255,255,.6);
+      width: 600px;
+      min-height: 300px;
+      left: 50%;
+      top: 20%;
+      margin-left: -300px;
+      display: none;
+      text-align: center;
+      color: #242424;
+    }
+    
+    .modal-header{
+      background-color: #242424;
+      padding: 20px;
+      color: lightcyan;
+      margin-bottom: 2em;
+      border-radius: 5px;
+    }
+    .modal-container.modal-container-active {
+      display: block;
+    }
+  
+    .button-add{
+      padding: 10px 10px 10px;
+      border: none;
+      border-radius: 20px;
+    }
+  
+  
